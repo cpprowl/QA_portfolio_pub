@@ -1,5 +1,7 @@
 # QA_portfolio_pub
 
+## For example of test plan, test cases, test suits, check lists, bug reports (Примеры тест-плана, тест-кейсов, тест-наборов, чек листов, баг репортов)
+
 **Чек-лист Форма авторизации mail.ru (web-application)**
 
 https://clck.ru/39qUMv
