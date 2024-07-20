@@ -18,10 +18,6 @@ https://vk.cc/cvoeK8
 
 [Пример баг - репорта](https://www.notion.so/9f63dcc7b0794f7e893bf8cfbcb2a82c?pvs=21)
 
-**Чек-лист Yandex GO. My addresses (mobile-application)**
-
-[Чек-лист Экран Мои адреса Яндекс GO (mobile-application)](https://www.notion.so/GO-mobile-application-50c1413371e349de86908400c4801592?pvs=21) 
-
 **Тестирование мобильного приложения**
 
 **Отчёт о тестировании Яндекс Метро**
